@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class SS2017400081 {
+public class xox {
 	public static int countwin = 0; //counts how many times the user won.
 	public static int countlose = 0;//counts how many times the user lost.
 
